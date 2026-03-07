@@ -19,3 +19,45 @@
 </div>
 
 
+# Hi, I'm Juan Pablo 👋
+
+**Software Engineering Student** | Tech Professional with 3+ years of experience.
+
+I am passionate about building efficient solutions and transforming data into insights. With a solid background in **JavaScript, Data Analysis, and Databases**, I'm constantly expanding my toolkit with Python, Java, and C/C++.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+---
+
+### 🔭 Current Focus & Goals
+
+- 🚀 Developing projects with **Python, C/C++, Java, and JS**.
+- 🔍 Seeking new opportunities as a **Software Developer / Data Analyst**.
+- 🎓 Deepening my knowledge in **Software Architecture** and **Scalable Systems**.
+
+---
+
+### 📫 Get in touch
+
+- 📧 Email: [juanpablo10sr@outlook.com](mailto:juanpablo10sr@outlook.com)
+- 💬 Pronouns: He/Him
+- 🌎 Based in Brazil
+
+---
