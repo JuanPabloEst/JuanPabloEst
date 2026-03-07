@@ -1,7 +1,7 @@
 ## Hi there 👋 Olá visitante ✌️ Me Chamo Juan 
 
 
-- 🔭 Me desenvolvendo com linguagens de programação como Phyton, C/C++, Java, JavaScript.
+- 🔭 Me desenvolvendo com linguagens de programação como Phyton, C/C++, Java, JavaScript e em Flutter.
 - 🤔 Em buscas de novas oportunidades 
 - 📫 Contato por e-mail: juanpablo10sr@outlook.com
 
