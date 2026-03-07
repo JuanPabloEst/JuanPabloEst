@@ -21,7 +21,7 @@
 
 # Hi, I'm Juan Pablo 👋
 
-**Software Engineering Student** | Tech Professional with 3+ years of experience.
+**Software Engineering Student** | Tech Professional with 4+ years of experience.
 
 I am passionate about building efficient solutions and transforming data into insights. With a solid background in **JavaScript, Data Analysis, and Databases**, I'm constantly expanding my toolkit with Python, Java, and C/C++.
 
@@ -35,14 +35,6 @@ I am passionate about building efficient solutions and transforming data into in
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
